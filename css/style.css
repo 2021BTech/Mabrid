@@ -727,7 +727,8 @@ textarea.form-control{
 	display:block;
 }
 .logo img{
-	max-height:50px;
+	width: 50%;
+	height: 50%;
 }
 .logo .logo-dark{
     display:inline-block;
